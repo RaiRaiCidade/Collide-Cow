@@ -6,4 +6,16 @@ O projeto foi feito durante as aulas de programação da Alura, com o instrutor 
 
 A ideia é que a cada vez que o personagem atravessa a rua com sucesso adiciona-se um ponto ao placar, porém quando ele colide com um dos carros perde pontos e deve recomeçar. No entanto, os pontos não podem ficar negativos.
 
-![imagem do jogo](/imagens/foto.svg)
+![imagem do jogo](Imagens/foto.png)
+
+## Tecnologias utilizadas
+- JavaScript
+- HTML
+
+<hr >
+
+
+## Como Jogar
+Para jogar é simples, basta utilizar as **setas para cima e para baixo**, para fazer com que a vaquinha se movimente.
+
+Bom Jogo!
